@@ -2,6 +2,7 @@
   "name": "send-money-widget",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ammiranda.github.io/currency-converter-app",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "js-money": "^0.6.3",
